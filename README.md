@@ -20,7 +20,7 @@ Use images as support where needed.
   2. There are seven departments impacted with two department titles
 	Senior Engineer (29414) and Senior Staff (28254) having the largest numbers.
   
-![Retiring_Titles](Retiring_Titles.png)
+![retiring_titles_sample](/Data/retiring_titles_sample.png)
 
 - Open positions to be filled
 	1.  It's a major impact to the entire company if all retirement eligible employees retire.
@@ -29,7 +29,7 @@ Use images as support where needed.
 - Employees eligible for Mentorship Program
 	1. There are 1549 employees eligible
 	
-![Mentorship_Eligibility](Mentorship_Eligibility.png)
+![Mentorship_Eligibility](/Data/Mentorship_Eligibility.png)
 
 # Summary:
 
@@ -49,5 +49,7 @@ the list of employees eligible for the Mentorship program to step in earlier rat
 Running two additional queries selecting only active employees, reduces the number of retirees
 from 90398 to 72458
 
-![Upd-RetirementCount](Upd-RetirementCount.png)
-![Ups-RetirementEmp](Upd-RetirementEmp.png)
+![Upd-RetirementCount](/Data/Upd-RetirementCount.png)
+
+![Upd-RetirementEmp](/Data/Upd-RetirementEmp.png)
+
