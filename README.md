@@ -20,7 +20,7 @@ Use images as support where needed.
   2. There are seven departments impacted with two department titles
 	Senior Engineer (29414) and Senior Staff (28254) having the largest numbers.
   
-![retiring_titles_sample](/Data/retiring_titles_sample.png)
+![Retiring_Titles_Summary](/Data/Retiring_Titles_Summary.png)
 
 - Open positions to be filled
 	1.  It's a major impact to the entire company if all retirement eligible employees retire.
